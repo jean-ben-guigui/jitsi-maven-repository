@@ -49,7 +49,7 @@
       <version>25.4.0</version>
     </dependency>
     <dependency>
-      <groupId>com.facebook.react<groupId>
+      <groupId>com.facebook.react</groupId>
       <artifactId>react-native-locale-detector</artifactId>
       <version>1.0.0-jitsi-1</version>
     </dependency>
